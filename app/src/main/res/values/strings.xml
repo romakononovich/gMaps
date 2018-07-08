@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">gMaps</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="tv_search">Search…</string>
+    <string name="toast_permission">You need permission to access locations</string>
+    <string name="tv_my_position">My Position</string>
+</resources>

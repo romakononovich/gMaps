@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">gMaps</string>
+    <string name="tv_search">Поиск…</string>
+    <string name="toast_permission">Для доступа к местоположению необходимо разрешение</string>
+    <string name="tv_my_position">Моя позиция</string>
+</resources>
