@@ -56,7 +56,7 @@ class MapsActivity : AppCompatActivity(), OnMapReadyCallback {
         } else {
             marker = map.addMarker(MarkerOptions().position(LatLng(1.0, 1.0)).title(resources.getText(R.string.tv_my_position).toString()))
         }
-        
+
         map.setOnCameraMoveListener {
             marker.position = map.cameraPosition.target
         }
